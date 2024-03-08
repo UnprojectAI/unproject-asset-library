@@ -1,0 +1,38 @@
+{
+	"coffee mug" : {
+		"option_1" : {
+			"preview" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/coffee_mug_preview_1.glb",
+			"refined" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/coffee_mug_refined_1.glb"
+		},
+		"option_2" : {
+			"preview" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/coffee_mug_preview_2.glb",
+			"refined" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/coffee_mug_refined_2.glb"
+		},
+		"option_3" : {
+			"preview" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/coffee_mug_preview_3.glb",
+			"refined" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/coffee_mug_refined_3.glb"
+		},
+		"option_4" : {
+			"preview" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/coffee_mug_preview_4.glb",
+			"refined" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/coffee_mug_refined_4.glb"
+		}
+	},
+	"grey bear in formal" : {
+		"option_1" : {
+			"preview" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/grey_bear_in_formal_preview_1.glb",
+			"refined" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/grey_bear_in_formal_refined_1.glb"
+		},
+		"option_2" : {
+			"preview" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/grey_bear_in_formal_preview_2.glb",
+			"refined" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/grey_bear_in_formal_refined_2.glb"
+		},
+		"option_3" : {
+			"preview" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/grey_bear_in_formal_preview_3.glb",
+			"refined" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/grey_bear_in_formal_refined_3.glb"
+		},
+		"option_4" : {
+			"preview" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/grey_bear_in_formal_preview_4.glb",
+			"refined" : "https://unproject-asset-library.s3.amazonaws.com/generatedModels/grey_bear_in_formal_refined_4.glb"
+		}
+	}
+}
